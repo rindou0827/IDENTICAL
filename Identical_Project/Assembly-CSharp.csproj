@@ -51,6 +51,7 @@
      <Compile Include="Assets\Scripts\GameMaster.cs" />
      <Compile Include="Assets\Scripts\StageInfo.cs" />
      <Compile Include="Assets\Scripts\StageSelect.cs" />
+     <Compile Include="Assets\Scripts\TestScript.cs" />
      <Compile Include="Assets\Scripts\TouchScreen.cs" />
      <Compile Include="Assets\Scripts\objectEffect\DestroyObject.cs" />
      <Compile Include="Assets\Scripts\objectEffect\EijiMiyazono.cs" />
