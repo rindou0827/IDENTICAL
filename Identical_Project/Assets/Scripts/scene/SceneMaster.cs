@@ -18,13 +18,16 @@ public class SceneMaster : MonoBehaviour {
     }
 
     // Use this for initialization
-    void Start () {
+    //void Start () {
         
-	}
+	//}
 	
 	// Update is called once per frame
 	void Update () {            
-
+        if(Input.GetKeyDown(KeyCode.Escape))//Escapeキー押されたら終了
+        {
+            Application.Quit();
+        }
 	}
 
     //シーンの読み込み
@@ -39,5 +42,9 @@ public class SceneMaster : MonoBehaviour {
     public void Load_Game()
     {
         SceneManager.LoadScene("Game");
+    }
+    public void Load_VersusMode()
+    {
+        SceneManager.LoadScene("Versus");
     }
 }

@@ -13,4 +13,7 @@ EditorBuildSettings:
     guid: e92f21b928ddc074bb8e5ce324456d61
   - enabled: 1
     path: Assets/Scenes/Game.unity
+    guid: a3837f566065e3d4eac8442dc975cdf7
+  - enabled: 1
+    path: Assets/Scenes/Versus.unity
     guid: 00000000000000000000000000000000
