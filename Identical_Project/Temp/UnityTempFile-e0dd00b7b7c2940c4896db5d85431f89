@@ -89,6 +89,7 @@
 -define:UNITY_TEAM_LICENSE
 'Assets/CheatStage.cs'
 'Assets/Scripts/DropObjectUI.cs'
+'Assets/Scripts/EijiMiyazono.cs'
 'Assets/Scripts/GameMaster.cs'
 'Assets/Scripts/StageInfo.cs'
 'Assets/Scripts/StageSelect.cs'

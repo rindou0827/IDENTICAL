@@ -48,6 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\CheatStage.cs" />
      <Compile Include="Assets\Scripts\DropObjectUI.cs" />
+     <Compile Include="Assets\Scripts\EijiMiyazono.cs" />
      <Compile Include="Assets\Scripts\GameMaster.cs" />
      <Compile Include="Assets\Scripts\StageInfo.cs" />
      <Compile Include="Assets\Scripts\StageSelect.cs" />
